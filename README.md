@@ -8,7 +8,7 @@
   <a href="https://pablohansen.com">Personal Blog</a> •
   <a href="https://linkedin.com/in/pablo-hansen/">LinkedIn</a>•
   <a href="https://seraphiclabs.com">Consulting Company</a>•
-  <a href="https://lucidlabs.com">Product Studio</a>•
+  <a href="https://lucidlabs.com">Product Studio</a>
 </p>
 
 ---
