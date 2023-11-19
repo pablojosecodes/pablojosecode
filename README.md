@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=thepablohansen&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/thepablohansen?label=thepablohansen&style=social"></a>  •
-  <a href="https://creative-horizons.ghost.io/tag/archive/">Creator Growth </a> •
-  <a href="https://architecting-ambition.ghost.io/">Software Architecture</a> •
+  <a href="https://creative/">Creator Growth </a> •
+  <a href="https://ambition.seraphiclabs.com/"Software Architecture</a> •
   <a href="https://pablohansen.com">Personal Blog</a> •
   <a href="https://linkedin.com/in/pablo-hansen/">LinkedIn</a>•
   <a href="https://seraphiclabs.com">Consulting Company</a>•
@@ -13,7 +13,7 @@
 
 ---
 
-I'm an SF-native currently putting [my](https://pablohansengrowth.substack.com/) [thoughts](https://architecting-ambition.ghost.io/) [online](https://creative-horizons.ghost.io/tag/archive/) as I run a consulting company and a product studio.
+I'm an SF-native currently putting [my](https://pablohansengrowth.substack.com/) [thoughts](https://ambition.seraphiclabs.com/) [online](https://creative.seraphiclabs.com/) as I run a consulting company and a product studio.
  
 I previously worked at a stealth startup and am finishing up a Master's in AI.
 
