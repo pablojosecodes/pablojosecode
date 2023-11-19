@@ -19,6 +19,6 @@ I previously worked at a stealth startup and am finishing up a Master's in AI.
 
 If you are a creator looking to grow your audience, I <a href="https://learninpublic.org/?from=GH%20README">write a weekly deep dive for you</a>.
 
-If you are interested in how successful startups scale from an organizational and software arhitecture persective, I <a href="https://learninpublic.org/?from=GH%20README">write The Architecture for you</a>.
+If you are interested in how successful startups scale from an organizational and software arhitecture persective, I <a href="https://learninpublic.org/?from=GH%20README">write The Architecter for you</a>.
 
 If you need help building your product or want a beautiful website, you can reach out to me [here](https://seraphicslabs.com).
