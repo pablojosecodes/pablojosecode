@@ -17,7 +17,7 @@ I'm an SF-native currently putting [my](https://pablohansengrowth.substack.com/)
  
 I previously worked at a stealth startup and am finishing up a Master's in AI.
 
-If you are a creator looking to grow your audience, I <a href="https://learninpublic.org/?from=GH%20README">wrote a weekly deep dive for you</a>.
+If you are a creator looking to grow your audience, I <a href="https://learninpublic.org/?from=GH%20README">write a weekly deep dive for you</a>.
 
 If you are interested in how successful startups scale from an organizational and software arhitecture persective, I <a href="https://learninpublic.org/?from=GH%20README">write The Architecture for you</a>.
 
