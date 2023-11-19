@@ -5,10 +5,10 @@
   <a href="https://twitter.com/intent/follow?screen_name=thepablohansen&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/thepablohansen?label=thepablohansen&style=social"></a>  •
   <a href="https://creative-horizons.ghost.io/tag/archive/">Creator Growth </a> •
   <a href="https://architecting-ambition.ghost.io/">Software Architecture</a> •
-  <a href="https://pablohansen.com">Personal Blog</a> 
-  <a href="https://linkedin.com/in/pablo-hansen/">LinkedIn</a>
-  <a href="https://seraphiclabs.com">Consulting Company</a>
-  <a href="https://lucidlabs.com">Product Studio</a>
+  <a href="https://pablohansen.com">Personal Blog</a> •
+  <a href="https://linkedin.com/in/pablo-hansen/">LinkedIn</a>•
+  <a href="https://seraphiclabs.com">Consulting Company</a>•
+  <a href="https://lucidlabs.com">Product Studio</a>•
 </p>
 
 ---
