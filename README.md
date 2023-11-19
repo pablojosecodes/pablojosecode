@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=thepablohansen&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=thepablohansen&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/thepablohansen?label=%40swyx&style=social"></a>  •
   <a href="https://creative-horizons.ghost.io/tag/archive/">Creator Growth </a> •
   <a href="https://architecting-ambition.ghost.io/">Software Architecture</a> •
   <a href="https://pablohansen.com">Personal Blog</a> 
